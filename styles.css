@@ -25,3 +25,8 @@ main {
     padding: 1em;
 }
 
+.resizeimage img{
+    max-width: 100%;
+    min-width: 10%;
+}
+
